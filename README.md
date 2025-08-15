@@ -78,3 +78,7 @@ Para desenhar um cubo no GeoGebra 3D que represente o espaço $[0,1] \times [0,1
 Depois disso, você verá um cubo 3D exatamente no intervalo $[0,1]$ em cada dimensão.
 
 Deseja também rotacionar ou animar o cubo?
+
+---
+
+HyperLGBT: similaridade entre conceitos já existentes e as identidades próprias de cada um, podendo clusterizar depois.
